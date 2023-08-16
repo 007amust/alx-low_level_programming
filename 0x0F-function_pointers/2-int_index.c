@@ -2,6 +2,8 @@
 #include <stdlib.h>
 
 /**
+  * int_index - initializes
+  *
   * @array: name.
   * @size: pointer.
   *@cmp: pointer.
