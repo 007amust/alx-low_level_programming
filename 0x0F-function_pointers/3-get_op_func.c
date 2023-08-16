@@ -2,9 +2,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * get_op_func - Entry 
+ * get_op_func - Entry function
  * @s: operator
- * Return: 0
+ * Return: function
  */
 
 int (*get_op_func(char *s))(int, int)
