@@ -3,10 +3,10 @@
 #include <stdlib.h>
 
 /**
- * op_adds.
+ * op_add - function that sums 2 .
  * @a: number1
  * @b: number2
- * Return: the sum of both numbers.
+ * Return: 0.
  */
 int op_add(int a, int b)
 {
